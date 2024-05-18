@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Het Mangukiya</h1>
 <h3 align="center">Expert in Mobile Application Development(Android, Flutter, IOS), Specialized in ASO & Digital Marketing</h3>
 
-- 👨‍💻 All of my projects are available at [www.hetmangukiya.com](www.hetmangukiya.com)
+<!-- - 👨‍💻 All of my projects are available at [www.hetmangukiya.com](www.hetmangukiya.com) -->
 
-- 📝 I regularly write articles on [www.hetmangukiya.com/blog](www.hetmangukiya.com/blog)
+<!-- - 📝 I regularly write articles on [www.hetmangukiya.com/blog](www.hetmangukiya.com/blog) -->
 
-- 📫 How to reach me **hetp5172@gmail.com**
+<!-- - 📫 How to reach me **hetp5172@gmail.com** -->
 
-- 📄 Know about my experiences [www.hetmangukiya.com](www.hetmangukiya.com)
+<!-- - 📄 Know about my experiences [www.hetmangukiya.com](www.hetmangukiya.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
